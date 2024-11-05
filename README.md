@@ -9,7 +9,7 @@
         <strong>SLA (Service Level Agreement):</strong> Explicação do SLA no Azure, suas garantias de disponibilidade e como configurá-lo conforme a criticidade do serviço.
     </li>
     <li>
-        <strong>VM (Máquina Virtual):</strong> Passo a passo para criação de VMs no Azure, com descrições das opções disponíveis na interface de configuração.
+        <strong>VM (Máquina Virtual):</strong> Criação de VMs no Azure, com descrições das opções disponíveis na interface de configuração. O passo a passo será tratado mais adiante em um próximo repositório.
     </li>
     <li>
         <strong>Zonas de Disponibilidade:</strong> Descrição das zonas de disponibilidade do Azure, que ajudam a proteger contra falhas, distribuindo recursos entre diferentes locais físicos.
@@ -26,5 +26,3 @@
         <strong>Storage Account (Contas de Armazenamento):</strong> Explicação das diferentes opções de replicação de dados (LRS, GRS, ZRS, GZRS) e seu impacto na disponibilidade e custo.
     </li>
 </ul>
-
-<p>Este projeto é ideal para entender a configuração de infraestrutura no Azure e as melhores práticas para alta disponibilidade e recuperação de desastres.</p>
